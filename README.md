@@ -6,7 +6,7 @@ This script processes blog posts, enhances content using OpenAI, and publishes t
 
 ## Requirements
 
-1. **Python 3.7 or higher**.
+1. **Python 3.12 or higher**.
 2. **WordPress XML-RPC** enabled on your site.
 3. **OpenAI API Key** (get it from [OpenAI](https://openai.com/api/)).
 
