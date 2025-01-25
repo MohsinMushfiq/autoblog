@@ -21,8 +21,10 @@ Download the script file (e.g., `blog_processor.py`) to your computer.
 Run the following command to install dependencies:
 ```bash
 pip install requests openai python-wordpress-xmlrpc beautifulsoup4 lxml
+````
 
 ### 3. Run the Script
-Run the following command to start:
+Run the following command to Execute the script:
 ```bash
 python blog_processor.py
+````
