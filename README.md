@@ -23,7 +23,15 @@ Run the following command to install dependencies:
 pip install requests openai python-wordpress-xmlrpc beautifulsoup4 lxml
 ````
 
-### 3. Run the Script
+### 3. Set Up Credentials
+```bash
+WORDPRESS_URL=https://your-wordpress-site.com/xmlrpc.php
+WORDPRESS_USER=""
+WORDPRESS_PASSWORD=""
+OPENAI_API_KEY=""
+````
+
+### 4. Run the Script
 Run the following command to Execute the script:
 ```bash
 python blog_processor.py
